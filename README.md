@@ -129,8 +129,8 @@ If you like this project, please give it a ⭐ **star** on GitHub. It motivates 
 For any inquiries, feel free to reach out:
 ```html
 <ul>
-  <li><b>Email:</b> your-email@example.com</li>
-  <li><b>GitHub:</b> <a href="https://github.com/your-username">your-username</a></li>
+  <li><b>Email:</b> gangwaramit449@gmail.com </li>
+  <li><b>GitHub:</b> <a href="https://github.com/xerox563">xerox563</a></li>
 </ul>
 ```
 
